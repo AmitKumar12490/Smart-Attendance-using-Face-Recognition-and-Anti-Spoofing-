@@ -1,0 +1,2 @@
+# Smart-Attendance-using-Face-Recognition-and-Anti-Spoofing-
+SmartAttend 3D is an AI-powered attendance and workplace security platform using Python Flask, OpenCV, YuNet, and SFace for 128-dimensional facial recognition with cosine-distance matching under 2ms. Its multi-spectral anti-spoofing system detects fake faces using FFT frequency analysis, skin-colour distribution, and Laplacian edge sharpness.
