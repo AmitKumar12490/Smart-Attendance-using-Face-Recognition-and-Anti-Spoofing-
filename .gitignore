@@ -1,0 +1,30 @@
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+dist/
+.vite/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+*.log
+
+# Environment variables
+backend/.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
